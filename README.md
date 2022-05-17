@@ -1,15 +1,16 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```5. Hafta ödevi```
 
 # Homework 
-```Ödev```
+- Reduce ile isimlerin baş harfine göre gruplandırma
+- Yaşadıkları şehirlere göre gruplandırma 
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Javascript Array metotlarından biri olan reduce'u kullanarak gerekli isterleri gerçekleştirdim. ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Hamza Tunahan ARSLAN```
